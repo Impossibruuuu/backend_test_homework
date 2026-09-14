@@ -1,3 +1,7 @@
+import greetings
+
 print('Я домашка')
 print('я новая фича')
 print('я еще одна фича')
+
+greetings.greet('Вася')
